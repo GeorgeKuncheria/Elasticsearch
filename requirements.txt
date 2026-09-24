@@ -1,0 +1,5 @@
+elasticsearch
+tqdm
+sentence_transformers
+torch
+matplotlib

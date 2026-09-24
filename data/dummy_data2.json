@@ -1,0 +1,42 @@
+[
+    {
+        "message": "This is an important keyword search result.",
+        "age": 25,
+        "price": 100.0
+    },
+    {
+        "message": "Elasticsearch makes full-text search fast and scalable.",
+        "age": 34,
+        "price": 249.99
+    },
+    {
+        "message": "A quick brown fox jumps over the lazy dog.",
+        "age": 41,
+        "price": 15.5
+    },
+    {
+        "message": "Vector search enables semantic similarity matching.",
+        "age": 29,
+        "price": 599.0
+    },
+    {
+        "message": "This document contains no relevant keywords at all.",
+        "age": 52,
+        "price": 7.25
+    },
+    {
+        "message": "Search relevance scoring depends on term frequency.",
+        "age": 18,
+        "price": 349.49
+    },
+    {
+        "message": "Another important keyword search example for testing.",
+        "age": 63,
+        "price": 999.99
+    },
+    {
+        "message": "Random unrelated text used purely as filler content.",
+        "age": 22,
+        "price": 45.0
+    }
+]
