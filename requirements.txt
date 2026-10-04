@@ -3,3 +3,5 @@ tqdm
 sentence_transformers
 torch
 matplotlib
+fastapi
+fastapi[standard]
